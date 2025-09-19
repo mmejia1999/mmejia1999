@@ -15,9 +15,8 @@
 
 📫 Cómo contactarme **mejia.cambara.michelle@gmail.com**
 
-- ⚡ Dato curioso **Me gusta el queso, el vino y el anime**<
-
-h3 align="left">Conéctate conmigo:</h3>
+- ⚡ Dato curioso **Me gusta el queso, el vino y el anime**
+-  <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 💻<a href="https://linkedin.com/in/https://www.linkedin.com/in/michelle-mejia-cambara-a30284278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michelle-mejia-cambara-a30284278/" height="30" width="40" /></a>
 <a href="https://discord.gg/michellemejia0424_54304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="michellemejia0424_54304" height="30" width="40" /></a>
